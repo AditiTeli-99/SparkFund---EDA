@@ -26,8 +26,12 @@ investing, implying that the 'best' sectors and countries are the ones 'where mo
 investing. This pattern is often observed among early stage startup investors.
 
 
+Descriptions of the files: The companies file gives the information of the companies, rounds file gives the idea of funding rounds done by the companies and mapping file helps in the sectoral analysis.
+
+
 Files :
 
 1. Companies file :- https://drive.google.com/file/d/1T8gPeBtrGGDZRI-YOkpOGc6eWlFjsftj/view?usp=share_link
 2. Rounds file :- https://drive.google.com/file/d/1wUEXdLvcDkpMIBxbOhoxDI1T2IrInnNu/view?usp=share_link
 3. Mappings file :- https://drive.google.com/file/d/1TQ9FYWGvojbnoGZjqv5QGZze48j-3JwX/view?usp=share_link
+
